@@ -12,5 +12,4 @@ Homework 1 Code Refractor
 
 **In CSS**
 1. I grouped together the CSS classes which have the same properties. 
-2. seo, which is a part of the company's name, is a unique element on its own. I deleted the header h1 part that came before the word seo and defined seo as an id in CSS and HTML. 
-3. 
+2. seo, which is a part of the company's name, is a unique element on its own. I deleted the header h1 part that came before the word seo and defined seo as an id in CSS and HTML. I did the same with hero image. 
