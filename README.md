@@ -10,7 +10,7 @@ Homework 1 Code Refractor
 3. Alternative text was added to images. Since the images in this website are decorative images, I inserted null alternative text tags after referring to [Web Accessibility Tutorials Website] (https://www.w3.org/WAI/tutorials/images/decorative/). 
 4. In the main content, some elements such as online reputation management section and social media marketing section, had both a class and id. I used classes only. I also removed the additional classes in HTML (float-left and right for these images and used search engine optimization img class instead (in CSS). I also grouped social media marketing image and search engine optimization image together in CSS since they use the same formatting. 
 5. The links at the top of the page were fixed. 
-6. h2 tag in the footer was changed to h3. 
+6. h2 tag in the footer was changed to h4. I am not sure about this change, but thematically, the footer should have a smaller header than the side bar headers. 
 
 **In CSSs**
 1. I grouped together the CSS classes which have the same properties. 
