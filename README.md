@@ -19,7 +19,7 @@ Please access the live website from this link: https://github.com/begumsacak/hom
 
 ## Authors
 
-Contributors names and contact info
+
 
 Begum Sacak
 [Begum's Github Page](https://github.com/begumsacak)
