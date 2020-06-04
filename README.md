@@ -10,7 +10,7 @@ In this project, the website for Horiseon was improved so that it meets accessib
 
 ### Cloning the CSS/HTML files from Repository
 
-* Please go to https://github.com/begumsacak/homework-1
+* Please go to https://github.com/begumsacak/code-refractor
 * Clone the HTTPS to your Terminal to download the raw files of HTML and CSS with edits. 
 
 ### Live Website
