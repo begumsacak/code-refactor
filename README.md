@@ -1,6 +1,6 @@
-# Homework Title
+# Code Refractor 
 
-Homework 1 - Horiseon Website
+Code Refractor - Editiong and Polishing Coding for Horiseon Website
 
 ## Description
 
