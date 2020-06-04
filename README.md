@@ -15,7 +15,7 @@ In this project, the website for Horiseon was improved so that it meets accessib
 
 ### Live Website
 
-Please access the live website from this link: https://github.com/begumsacak/homework-1
+Please access the live website from this link: https://begumsacak.github.io/code-refractor/
 
 ## Authors
 
