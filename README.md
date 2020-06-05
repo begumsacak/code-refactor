@@ -18,7 +18,7 @@ Another important accessibility consideration (especially for screen readers) is
 
 ![alt-text](https://user-images.githubusercontent.com/63175082/83825728-d0b8bc00-a69f-11ea-8639-0b37c06cb29a.jpg)
 
-
+Finally, it is also a good practice to add comments (they will be grayed out in your coding files) for other developers so that other developers can easily track what is going on. 
 
 ## Getting Started
 
