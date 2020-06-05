@@ -6,7 +6,9 @@ Code Refactor - Editiong and Polishing Coding for Horiseon Website
 
 In this project, the website for Horiseon was improved so that it meets accessibility standards, and the site is optimized for search engines. In order to do so, HTML and CSS files were reviewed, semantic HTML tags were used, and CSS selectors were reviewed and grouped together as needed. For more details, please refer to the raw HTML and CSS files. 
 
-As an example, there are links at the top of Horiseon website. The links refer to section on the same page, and by using simple linking feature in HTML, we can make it easier for users to find that information on a page. 
+## How It Works
+
+In this project, I didn't create code from scratch - but only polished and edited a given code so that the code is cleaner and also the coding conventions meet the Web accessibility standards. As an example, there are links at the top of Horiseon website. The links refer to section on the same page, and by using simple linking feature in HTML, we can make it easier for users to find that information on a page. 
 
 <img width="600" alt="linking-to-sections-in-HTML" src="https://user-images.githubusercontent.com/63175082/83825501-20e34e80-a69f-11ea-887c-9c740e51fed6.png">
 
