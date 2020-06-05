@@ -1,6 +1,6 @@
-# Code Refractor 
+# Code Refactor 
 
-Code Refractor - Editiong and Polishing Coding for Horiseon Website
+Code Refactor - Editiong and Polishing Coding for Horiseon Website
 
 ## Description
 
@@ -28,12 +28,12 @@ Here is a polished CSS file (also you can download the CSS from this repository)
 
 ### Cloning the CSS/HTML files from Repository
 
-* Please go to https://github.com/begumsacak/code-refractor
+* Please go to https://github.com/begumsacak/homework-1
 * Clone the HTTPS to your Terminal to download the raw files of HTML and CSS with edits. 
 
 ### Live Website
 
-Please access the live website from this link: https://begumsacak.github.io/code-refractor/
+Please access the live website from this link: https://begumsacak.github.io/homework-1/
 
 ## Authors
 
