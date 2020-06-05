@@ -8,7 +8,7 @@ In this project, the website for Horiseon was improved so that it meets accessib
 
 As an example, there are links at the top of Horiseon website. The links refer to section on the same page, and by using simple linking feature in HTML, we can make it easier for users to find that information on a page. 
 
-<img width="400" alt="linking-to-sections-in-HTML" src="https://user-images.githubusercontent.com/63175082/83825501-20e34e80-a69f-11ea-887c-9c740e51fed6.png">
+<img width="600" alt="linking-to-sections-in-HTML" src="https://user-images.githubusercontent.com/63175082/83825501-20e34e80-a69f-11ea-887c-9c740e51fed6.png">
 
 Using semantic HTML tags is also very important for accessibility standards - screen readers can tell them apart if we are more specific in our HTML. So, making sure that we are using tags suchs as <nav>, <figure>, <main>, <footer> etc. helps users identify what those parts of the code stands for (the type of content they include). 
 
@@ -18,7 +18,11 @@ Another important accessibility consideration (especially for screen readers) is
 
 ![alt-text](https://user-images.githubusercontent.com/63175082/83825728-d0b8bc00-a69f-11ea-8639-0b37c06cb29a.jpg)
 
-Finally, it is also a good practice to add comments (they will be grayed out in your coding files) for other developers so that other developers can easily track what is going on. 
+Finally, it is also a good practice to polish the code so the code is less length and comments are added (they will be grayed out in your coding files) for other developers so that other developers can easily track what is going on. 
+
+Here is a polished CSS file (also you can download the CSS from this repository), but same classes are combined together to avoid repetition. 
+
+<img width="600" alt="css-files-edited" src="https://user-images.githubusercontent.com/63175082/83826242-07db9d00-a6a1-11ea-97ae-a3b2cd76d6da.png">
 
 ## Getting Started
 
